@@ -23,4 +23,11 @@ Nie wiadomo
 
       robimy robimy
       coś mi świta
-      
+
+
+
+Komponent jest instalowany na instalacji AWS.
+
+```
+deloy_aws.sh
+```
