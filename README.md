@@ -20,3 +20,7 @@ Pierwszy projkt w gita
 Nie wiadomo
 ```
     Moze sie dowiem?
+
+      robimy robimy
+      coś mi świta
+      
