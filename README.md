@@ -31,3 +31,19 @@ Komponent jest instalowany na instalacji AWS.
 ```
 deloy_aws.sh
 ```
+blablabla
+blablablabla
+
+
+## Deployment
+
+1. Zainstaluje:
+```
+deploy_aws.sh
+```
+2. Sprawdź czy działa
+```
+curl api.example.com
+```
+
+I'm programming cat, that's what I am!
